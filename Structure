@@ -1,0 +1,5 @@
+- app/
+    - main.py
+    - konnektive_api.py
+- requirements.txt
+- README.md

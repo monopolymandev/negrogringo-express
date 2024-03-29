@@ -1,0 +1,7 @@
+
+## Usage
+
+1. Open the `main.py` file and modify the `start_date` and `end_date` variables to specify the desired date range.
+
+2. Run the application:
+
